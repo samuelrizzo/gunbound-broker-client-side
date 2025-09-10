@@ -23,7 +23,6 @@ add_library(GunBoundBrokerClient SHARED
     src/helpers/endian.cpp
     src/protocol/packet.cpp
     src/protocol/handler.cpp
-    src/protocol/server_options.cpp
 )
 
 target_include_directories(GunBoundBrokerClient PUBLIC include)
