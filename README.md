@@ -1,6 +1,6 @@
 # GunBound Broker Client
 
-A modern C++23 implementation of a GunBound game server broker that acts as a DLL injection for the GunBound client.
+A modern C++23 implementation of a GunBound game server broker that works as a DLL inside GunBound client.
 
 ## Overview
 
